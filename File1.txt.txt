@@ -1,1 +1,10 @@
 This is my first GIT.....welcome to git singham...!!!
+
+
+class HelloGit
+{
+	main()
+	{
+		System.out.println("Hello");
+	}
+}
