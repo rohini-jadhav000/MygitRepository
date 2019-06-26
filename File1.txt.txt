@@ -3,7 +3,7 @@ This is my first GIT.....welcome to git singham...!!!
 
 class HelloGit
 {
-	main()
+	public static void main(String[]args)
 	{
 		System.out.println("Hello");
 	}
